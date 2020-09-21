@@ -28,6 +28,7 @@ public class RestPrometheusApplication {
 	}
 
 	public static void main(String[] args) {
+    System.out.println("Hello here! It's 6:00 PM now");
 		SpringApplication.run(RestPrometheusApplication.class, args);
 	}
 
